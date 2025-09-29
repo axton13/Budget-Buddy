@@ -1,0 +1,2 @@
+# RatRace
+Daily budgeting app
